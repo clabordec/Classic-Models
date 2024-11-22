@@ -69,8 +69,8 @@ Extend testing with automated scripts if necessary.
 <br>
 
 ## 📈 Reporting
-<b>Test Execution Reports</b>: Located in `reports/test_execution/`.
-<b>Bug Reports</b>: Exported from JIRA and stored in `reports/bug_reports/`.
+- <b>Test Execution Reports</b>: Located in `reports/test_execution/`.
+- <b>Bug Reports</b>: Exported from JIRA and stored in `reports/bug_reports/`.
 
 <br>
 
