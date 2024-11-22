@@ -21,7 +21,7 @@ Our testing workflow integrates:
 <br>
 
 ## 🛠️ Tools & Technologies
-| Tool/Technology | Description |
+| <b>Tool/Technology</b> | <b>Description</b> |
 | --- | --- |
 | MySQL	Database | platform for ClassicModels schema. |
 | JIRA | Bug tracking and issue management. |
