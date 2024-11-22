@@ -22,10 +22,12 @@ Our testing workflow integrates:
 
 ## 🛠️ Tools & Technologies
 | Tool/Technology | Description |
-MySQL	Database platform for ClassicModels schema.
-JIRA	Bug tracking and issue management.
-Zephyr Scale	Test case management and reporting.
-🗂️ Project Structure
+| --- | --- |
+| MySQL	Database | platform for ClassicModels schema. |
+| JIRA | Bug tracking and issue management. |
+| Zephyr Scale | Test case management and reporting. |
+
+## 🗂️ Project Structure
 graphql
 Copy code
 ClassicModels/
