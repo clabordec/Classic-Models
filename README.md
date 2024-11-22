@@ -28,8 +28,7 @@ Our testing workflow integrates:
 | Zephyr Scale | Test case management and reporting. |
 
 ## 🗂️ Project Structure
-graphql
-Copy code
+```graphql
 ClassicModels/
 ├── sql/
 │   ├── create_schema.sql    # Script to create the ClassicModels schema
@@ -44,7 +43,11 @@ ClassicModels/
 │   └── bug_reports/         # Exported JIRA bug reports
 ├── README.md                # Project documentation
 └── .gitignore               # Git ignore file
-🚀 Getting Started
+```
+
+<br>
+
+## 🚀 Getting Started
 Prerequisites
 Ensure you have the following tools installed:
 
