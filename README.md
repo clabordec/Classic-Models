@@ -11,14 +11,17 @@ Our testing workflow integrates:
 
 <br>
 
-🔑 Features
-Comprehensive test cases for database CRUD operations.
-Validation of database schema integrity and constraints.
-Automated and manual test execution reports.
-Detailed bug tracking and resolution using JIRA.
-Real-time test management via Zephyr Scale.
-🛠️ Tools & Technologies
-Tool/Technology	Description
+## 🔑 Features
+- Comprehensive test cases for database CRUD operations.
+- Validation of database schema integrity and constraints.
+- Automated and manual test execution reports.
+- Detailed bug tracking and resolution using JIRA.
+- Real-time test management via Zephyr Scale.
+
+<br>
+
+## 🛠️ Tools & Technologies
+| Tool/Technology | Description |
 MySQL	Database platform for ClassicModels schema.
 JIRA	Bug tracking and issue management.
 Zephyr Scale	Test case management and reporting.
