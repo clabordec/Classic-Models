@@ -47,86 +47,39 @@ ClassicModels/
 
 <br>
 
-## 🚀 Getting Started
-Prerequisites
-Ensure you have the following tools installed:
-
-MySQL (v8.0 or higher)
-JIRA account with access to Zephyr Scale
-Any MySQL client (e.g., MySQL Workbench, DBeaver)
-Installation Steps
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/ClassicModels.git
-cd ClassicModels
-Set up the database:
-
-Import the schema:
-bash
-Copy code
-mysql -u username -p < sql/create_schema.sql
-Populate the data:
-bash
-Copy code
-mysql -u username -p < sql/seed_data.sql
-Run initial test queries:
-
-bash
-Copy code
-mysql -u username -p < sql/test_queries.sql
-Configure JIRA and Zephyr Scale for test management:
-
-Link your JIRA account.
-Set up a project named ClassicModels Testing.
-Import or manually create test cases.
-🧪 Testing Workflow
-Test Case Management:
-
+## 🧪 Testing Workflow
+1. Test Case Management:
 All test cases are documented in Zephyr Scale under the project ClassicModels Testing.
 Test cases are categorized into:
 Functional tests
 Integration tests
 Performance tests
-Test Execution:
 
+3. Test Execution:
 Execute test cases directly via Zephyr Scale.
 Log defects in JIRA with detailed bug reports.
-Bug Tracking:
 
+4. Bug Tracking:
 Bugs are tracked using JIRA, linked to their respective test cases.
 Reports are available in the reports/bug_reports/ directory.
-Test Automation (Optional):
 
+5. Test Automation (Optional):
 Extend testing with automated scripts if necessary.
-📈 Reporting
-Test Execution Reports: Located in reports/test_execution/.
-Bug Reports: Exported from JIRA and stored in reports/bug_reports/.
-🤝 Contribution
-We welcome contributions to enhance this project! Please follow these steps:
 
-Fork the repository.
-Create a new feature branch:
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Commit your changes:
-bash
-Copy code
-git commit -m "Add your feature description"
-Push the changes:
-bash
-Copy code
-git push origin feature/your-feature-name
-Create a pull request.
-🛡️ License
-This project is licensed under the MIT License.
+<br>
 
-📧 Contact
+## 📈 Reporting
+<b>Test Execution Reports</b>: Located in `reports/test_execution/`.
+<b>Bug Reports</b>: Exported from JIRA and stored in `reports/bug_reports/`.
+
+<br>
+
+## 📧 Contact
 For any queries or suggestions, feel free to reach out:
 
-Author: [Your Name]
-Email: your.email@example.com
-GitHub: Your GitHub Profile
-Happy Testing! 🎉
+- <b>Author</b>: Chaanyah Laborde
+- <b>Email</b>: chaanyahlaborde@gmail.com
+- <b>GitHub</b>: [claborde](https://github.com/clabordec/)
+
+
+# Happy Testing! 🎉
