@@ -31,7 +31,7 @@ Our testing workflow integrates:
 ```graphql
 ClassicModels/
 ├── sql/
-│   ├── create_schema.sql    # Script to create the ClassicModels schema
+│   ├── class-models.sql    # Script to create the ClassicModels schema
 │   ├── seed_data.sql        # Script to populate sample data
 │   └── test_queries.sql     # Queries for testing
 ├── test-cases/
