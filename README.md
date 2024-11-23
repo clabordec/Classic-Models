@@ -34,7 +34,7 @@ ClassicModels/
 │   ├── create_schema.sql    # Script to create the ClassicModels schema
 │   ├── seed_data.sql        # Script to populate sample data
 │   └── test_queries.sql     # Queries for testing
-├── test_cases/
+├── test-cases/
 │   ├── functional/          # Functional test cases for CRUD operations
 │   ├── integration/         # Integration test cases
 │   └── performance/         # Performance test cases
