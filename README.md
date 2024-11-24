@@ -32,7 +32,7 @@ Our testing workflow integrates:
 ClassicModels/
 ├── sql/
 │   ├── class-models.sql    # Script to create the ClassicModels schema
-│   ├── seed_data.sql        # Script to populate sample data
+│   ├── seed-data.sql        # Script to populate sample data
 │   └── test_queries.sql     # Queries for testing
 ├── test-cases/
 │   ├── functional/          # Functional test cases for CRUD operations
