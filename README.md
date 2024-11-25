@@ -23,7 +23,7 @@ Our testing workflow integrates:
 ## 🛠️ Tools & Technologies
 | <h4>Tool/Technology</h4> | <h4>Description</h4> |
 | --- | --- |
-| MySQL	Database | platform for ClassicModels schema. |
+| MySQL	Database | Platform for ClassicModels schema. |
 | JIRA | Bug tracking and issue management. |
 | Zephyr Scale | Test case management and reporting. |
 
